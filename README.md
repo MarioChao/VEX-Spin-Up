@@ -1,6 +1,8 @@
 # VEX-Spin-Up
 Information about 96969Z's VEX Spin Up robot.
 
+
+
 Hello everyone!
 
 We are team 96969Z, a 6-member VEX team from Taiwan, and this is our documentation for our Spin Up robot!
